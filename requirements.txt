@@ -1,0 +1,9 @@
+pandas==3.0.2
+numpy==2.3.5
+matplotlib==3.10.6
+matplotlib-inline==0.2.1
+seaborn==0.13.2
+phik==0.12.5
+sqlalchemy==2.0.43
+dotenv
+psycopg2 
